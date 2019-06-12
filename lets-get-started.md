@@ -15,16 +15,18 @@ Make sure you download Virtual Box version 5.2.3
 ### Installing Virtual Box
 
 {% hint style="info" %}
-Windows
+Windows: 
 {% endhint %}
 
 {% hint style="info" %}
-Mac
+Mac OS: 
 {% endhint %}
 
-### Changedfhhhghf vhggb gcgbcg
 
-* Animals are now super cute, all of them.
+
+### chnge
+
+* Animals are now super cute, all of t
 
 ## 14.0.0 - 2042-10-06
 
