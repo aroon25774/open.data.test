@@ -14,11 +14,15 @@ Make sure you download Virtual Box version 5.2.3
 
 ### Installing Virtual Box
 
-     2. Once installed open virtual box and follow the proceeding instructions. Click the image twice and install virtual box. 
+{% hint style="info" %}
+Windows
+{% endhint %}
 
+{% hint style="info" %}
+Mac
+{% endhint %}
 
-
-### Changed
+### Changedfhhhghf vhggb gcgbcg
 
 * Animals are now super cute, all of them.
 
