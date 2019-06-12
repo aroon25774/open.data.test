@@ -1,10 +1,22 @@
 # Let's Get Started!
 
-## 15.0.0 - 2042-12-03
+###                                      Virtual box Installation  
 
-### Fixed
+##                        ![](.gitbook/assets/virtualboxhero.jpg) 
 
-* Removed humans, they weren't doing fine with animals.
+To begin looking at CERN's Open Data Portal, we must first download virtual box. This is a virtual machine that would allow your computer to run a different operating system thus allowing you to access and stream CERN's data. 
+
+1. To download Virtual box click on the link:   [https://www.virtualbox.org/wiki/Download\_Old\_Builds\_5\_2](https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)
+
+{% hint style="warning" %}
+Make sure you download Virtual Box version 5.2.3 
+{% endhint %}
+
+### Installing Virtual Box
+
+     2. Once installed open virtual box and follow the proceeding instructions. Click the image twice and install virtual box. 
+
+
 
 ### Changed
 
