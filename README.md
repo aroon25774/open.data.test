@@ -10,9 +10,9 @@ As scientists we believe in sharing and giving others access to our findings. As
 
 For more information go to [http://opendata.cern.ch/docs/about](http://opendata.cern.ch/docs/about)
 
-             For ideas on improvement and questions about this page contact us: 
+             _For ideas on improvement and questions about this page contact us:_ 
 
-                                          Head of Project: [Dr. Matt Bellis](https://www.siena.edu/faculty-and-staff/person/matt-bellis/)
+                                          _Head of Project:_ [_Dr. Matt Bellis_](https://www.siena.edu/faculty-and-staff/person/matt-bellis/)\_\_
 
-                            Editors: Aroon Pressram and Nada Mohhamed
+                            _Editors: Aroon Pressram and Nada Mohhamed_
 
