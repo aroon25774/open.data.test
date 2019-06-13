@@ -10,9 +10,17 @@ As scientists we believe in sharing and giving others access to our findings. As
 
 For more information go to [http://opendata.cern.ch/docs/about](http://opendata.cern.ch/docs/about)
 
-             _For ideas on improvement and questions about this page contact us:_ 
-
-                                          _Head of Project:_ [_Dr. Matt Bellis_](https://www.siena.edu/faculty-and-staff/person/matt-bellis/)\_\_
-
-                            _Editors: Aroon Pressram and Nada Mohhamed_
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">
+        <p><em>For ideas on improvement and questions about this page contact us:</em>
+        </p>
+        <p><em>Head of Project: </em><a href="https://www.siena.edu/faculty-and-staff/person/matt-bellis/"><em>Dr. Matt Bellis</em></a>&lt;em&gt;&lt;/em&gt;</p>
+        <p><em>Editors: Aroon Pressram and Nada Mohhamed</em>
+        </p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
