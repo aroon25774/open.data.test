@@ -15,7 +15,7 @@ It is recommended using CMS-OpenData-1.1.2.ova for the 2010
 
 ### Step 2: 
 
-* [ ] Once downloaded hit the 
+* [ ] Once downloaded, start VirtualBox and import the files you just downloaded
 
 
 
