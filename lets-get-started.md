@@ -17,13 +17,14 @@ Make sure you download VirtualBox version 5.2.3
 {% hint style="info" %}
 #### Windows: 
 
-* [ ] * [ ] 
+* [ ] dfjb kjbgs
+* [ ]  xnb gb gjsbkbgj
 {% endhint %}
 
 {% hint style="info" %}
 #### Mac OS  
 
-* [ ] 
+* [ ] skjhgskjh kj
 {% endhint %}
 
 {% hint style="success" %}
