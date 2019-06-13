@@ -14,6 +14,7 @@ It is recommended using CMS-OpenData-1.1.2.ova
 
 ### Step 2: 
 
-* [ ] 
+* [ ] Once downloaded hit the 
+
 
 
