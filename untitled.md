@@ -6,7 +6,7 @@ CernVM stands for Cern Virtual Machine. This will run on your VirtualBox install
 
 ### Step 1: 
 
-* [ ] For access to the 2010 data download the set of files found at the bottom of the link below: [http://opendata.cern.ch/record/250](http://opendata.cern.ch/record/250) 
+* [ ] For access to the 2010 data download the set of files found at the bottom of the link: [http://opendata.cern.ch/record/250](http://opendata.cern.ch/record/250) 
 
 {% hint style="warning" %}
 It is recommended using CMS-OpenData-1.1.2.ova
