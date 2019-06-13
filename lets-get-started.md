@@ -4,7 +4,7 @@
 
 ##                        ![](.gitbook/assets/virtualboxhero.jpg) 
 
-To begin looking at CERN's Open Data Portal, we must first download virtual box. This is a virtual machine that would allow your computer to run a different operating system thus allowing you to access and stream CERN's data. 
+To begin looking at CERN's Open Data Portal, we must first download virtual box. This is a virtual machine that would allow your computer to run a different operating systems, thus allowing you to access and stream CERN's data.  
 
 1. To download Virtual box for your operating system, click on the link:   [https://www.virtualbox.org/wiki/Download\_Old\_Builds\_5\_2](https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)
 
@@ -12,7 +12,7 @@ To begin looking at CERN's Open Data Portal, we must first download virtual box.
 Make sure you download Virtual Box version 5.2.3 
 {% endhint %}
 
-### Installing Virtual Box
+###                                        Installing Virtual Box
 
 {% hint style="info" %}
 Windows: 
