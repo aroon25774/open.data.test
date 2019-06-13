@@ -12,7 +12,7 @@ To download Virtual box for your operating system, click on the link:   [https:/
 Make sure you download VirtualBox version 5.2.3 
 {% endhint %}
 
-###                                               Installing VirtualBox
+###                      Instructions Based on Your Operating System
 
 #### Windows: 
 
