@@ -2,7 +2,7 @@
 
 ###                                                Running CernVM
 
-CernVM stands for Cern Virtual Machine. This will run on your VirtualBox installed previously. There are different versions of CernVM that we can stream. For example accessing data from 2010 requires a different download than accessing data from 2012. For purposes of just getting started it is recommended that we start with data from 2010 as it is much easier to work with. However below are links to access data data from all years. 
+CernVM stands for Cern Virtual Machine. This will run on your VirtualBox installed previously. For purposes of just getting started it is recommended that we start with data from 2010 as it is much easier to work with. However below are links to access data from all years. 
 
 ### Step 1: 
 
