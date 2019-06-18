@@ -10,15 +10,21 @@ The following code is linux. If you are unfamiliar with this code then we recomm
  [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line)
 {% endhint %}
 
+Lets make a datasets directory where we will download and store our data
+
+1. Launch and run cernVM
+2. On the home page or the Applications Menu you will find the option to open a browser in the Virtual Machine, click on the browser icon and launch a browser
+3. Once the browser is launched go to Cerns Open Data Portal at the link  [http://opendata.cern.ch/](http://opendata.cern.ch/) or by simply looking it up
+4. At the bottom of the page click on "datasets"
+5. Find your desired dataset 
+
 Enter the following commands into your terminal to get started
 
 ```bash
 $ cmsrel CMSSW_5_3_32 #This ensures you have the version of CMSSW running
 $ cd CMSSW_5_3_32/src/ #This changes your directory to the source file
-$ cmsenv #This makes sure you have a CMS environment running
+$ cmsenv #This makes sure you have a CMS environment
 ```
 
-```text
-
-```
+In order to root a file you need the file link on the virtual machine
 
