@@ -10,7 +10,7 @@ The following code is linux. If you are unfamiliar with this code then we recomm
  [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line)
 {% endhint %}
 
-#### Lets make a datasets directory!
+#### Step 1: Lets make a datasets directory!
 
            Enter the following commands into your terminal to get started
 
@@ -25,7 +25,7 @@ $ scram b #This will compile the files
 $ mkdir datasets #This makes your dataset directory
 ```
 
-#### Find and store data on your Virtual Machine
+#### Step 2: Find and store data on your Virtual Machine
 
 1. Launch and run cernVM
 2. On the home page or the Applications Menu you will find the option to open a browser in the Virtual Machine, click on the browser icon and launch a browser
@@ -33,7 +33,7 @@ $ mkdir datasets #This makes your dataset directory
 4. At the bottom of the page click on "datasets"
 5. Find your desired dataset
 
-#### In order to root a file you need the file link on the virtual machine. We can do this accessing the data files you downloaded to the virtual machine.
+#### Step 3: In order to root a file you need the file link on the virtual machine. We can do this accessing the data files you downloaded to the virtual machine.
 
 1. Navigate to your datasets directory
 2. once in your datasets directory type:
