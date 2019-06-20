@@ -10,21 +10,61 @@ The following code is linux. If you are unfamiliar with this code then we recomm
  [https://www.codecademy.com/learn/learn-the-command-line](https://www.codecademy.com/learn/learn-the-command-line)
 {% endhint %}
 
-Lets make a datasets directory where we will download and store our data
+#### Lets make a datasets directory!
 
-1. Launch and run cernVM
-2. On the home page or the Applications Menu you will find the option to open a browser in the Virtual Machine, click on the browser icon and launch a browser
-3. Once the browser is launched go to Cerns Open Data Portal at the link  [http://opendata.cern.ch/](http://opendata.cern.ch/) or by simply looking it up
-4. At the bottom of the page click on "datasets"
-5. Find your desired dataset 
-
-Enter the following commands into your terminal to get started
+           Enter the following commands into your terminal to get started
 
 ```bash
 $ cmsrel CMSSW_5_3_32 #This ensures you have the version of CMSSW running
 $ cd CMSSW_5_3_32/src/ #This changes your directory to the source file
 $ cmsenv #This makes sure you have a CMS environment
+$ mkdir Demo #This makes a Demo directory
+$ cd Demo #Navigates into the Demo Directory
+$ mkedanlzr DemoAnalyzer #This makes an analyzer script
+$ scram b #This will compile the files
+$ mkdir datasets #This makes your dataset directory
 ```
 
-In order to root a file you need the file link on the virtual machine
+#### Find and store data on your Virtual Machine
+
+1. Launch and run cernVM
+2. On the home page or the Applications Menu you will find the option to open a browser in the Virtual Machine, click on the browser icon and launch a browser
+3. Once the browser is launched go to Cerns Open Data Portal at the link  [http://opendata.cern.ch/](http://opendata.cern.ch/) or by simply looking it up
+4. At the bottom of the page click on "datasets"
+5. Find your desired dataset
+
+#### In order to root a file you need the file link on the virtual machine. We can do this accessing the data files you downloaded to the virtual machine.
+
+1. Navigate to your datasets directory
+2. once in your datasets directory type:
+
+```bash
+$ ls #This will list everything withtin that directory
+```
+
+    3. You should see the data files you downloaded from earlier. Highlight and copy one of the datasets \(Shift+ctrl+c\). Then enter this into your terminal to view the file:
+
+```bash
+$ less ***paste your file here(shift+ctrl+v)*** 
+```
+
+    4. You should have a lot of root files pop up on your monitor. Copy one of the root files \(shift+ctrl+c\). Then exit the file by hitting shift+z+z on your keyboard.
+
+    5. Once you return to your bash terminal. Enter this into your terminal: 
+
+```text
+$ root ***paste your file here(shift+ctrl+v)*** 
+```
+
+    6. This will then launch ROOT.  Now you can enter this into your terminal to view the data: 
+
+```text
+$ TBroswer t;
+```
+
+Once the window opens up, go into the root folder by double clicking. This will then display the different types of data collected.
+
+{% hint style="success" %}
+Congratulations your viewed your first ROOT file! Remember you can do this with any desired dataset.
+{% endhint %}
 
