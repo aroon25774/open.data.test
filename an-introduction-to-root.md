@@ -62,7 +62,7 @@ $ root ***paste your file here(shift+ctrl+v)***
 $ TBroswer t;
 ```
 
-Once the window opens up, go into the root folder by double clicking. This will then display the different types of data collected.
+    7. Once the window opens up, go into the root folder by double clicking. This will then display the different types of data collected.
 
 {% hint style="success" %}
 Congratulations your viewed your first ROOT file! Remember you can do this with any desired dataset.
