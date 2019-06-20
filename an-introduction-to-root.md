@@ -59,7 +59,7 @@ $ root ***paste your file here(shift+ctrl+v)***
     6. This will then launch ROOT.  Now you can enter this into your terminal to view the data: 
 
 ```text
-$ TBroswer t;
+$ TBrowser t;
 ```
 
     7. Once the window opens up, go into the root folder by double clicking. This will then display the different types of data collected.
