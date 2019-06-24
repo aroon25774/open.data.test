@@ -16,6 +16,7 @@ It is recommended using CMS-OpenData-1.1.2.ova for the 2010
 ### Step 2: 
 
 1. Once downloaded, start VirtualBox and import the files you just downloaded
+2. Double click on the CMS-OpenData-1.1.2.ova which will open and give you access to the the CernVM
 
 
 
