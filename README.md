@@ -1,4 +1,4 @@
-# About Cerns Open Data Portal
+# About Cern's Open Data Portal
 
 ![](.gitbook/assets/cern.gif)
 
