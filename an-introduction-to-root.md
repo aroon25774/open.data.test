@@ -32,6 +32,7 @@ $ mkdir datasets #This makes your dataset directory
 3. Once the browser is launched go to Cerns Open Data Portal at the link  [http://opendata.cern.ch/](http://opendata.cern.ch/) or by simply looking it up
 4. At the bottom of the page click on "datasets"
 5. Find your desired dataset
+6. DO NOT directly download the dataset instead hit "save to files". Save this to your dataset directory. 
 
 #### Step 3: In order to root a file you need the file link on the virtual machine. We can do this accessing the data files you downloaded to the virtual machine.
 
